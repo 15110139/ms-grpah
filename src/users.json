@@ -1,0 +1,20 @@
+[
+  {
+    "businessPhones": [],
+    "givenName": "Aaron",
+    "jobTitle": null,
+    "mail": "aaron.nguyen@sourcecode.com.au",
+    "mobilePhone": null,
+    "officeLocation": null,
+    "preferredLanguage": "en-GB",
+    "surname": "Nguyen",
+    "accountEnabled": true,
+    "displayName": "Adele Vance",
+    "mailNickname": "AdeleV",
+    "userPrincipalName": "AdeleV@sourcecode.com.au",
+    "passwordProfile": {
+      "forceChangePasswordNextSignIn": true,
+      "password": "xWwvJ]6NMw+bWH-d"
+    }
+  }
+]
