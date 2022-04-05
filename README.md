@@ -4,7 +4,7 @@
 
     - npm i // install package.
     - update data file src/users.json, put object user data you want to add.
-    - update file .env if you change credential ms graph.
+    - create file .env follow file .example.env and update your credential ms graph.
 
 ## Run
 
